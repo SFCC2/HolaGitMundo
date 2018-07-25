@@ -17,6 +17,7 @@ public class main {
 
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"Bienvenido al programa");
+        System.out.println("Soy Johan");
           }
     /**
      * Inicializar repositorio local: ingresar el proyecto en un repositorio local, para poderlo subir al repositorio virtual-
